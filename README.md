@@ -1,3 +1,16 @@
+# Tech stack
+* Java 11
+* Spring framework for RESTful API
+* JUnit 5
+* Mockito framework
+
+
+## Running the application 
+```shell script
+Compile MainServer.java and ClientMain.java
+
+```
+
 # Features
 
 ## Player Features
